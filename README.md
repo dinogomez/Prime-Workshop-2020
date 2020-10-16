@@ -1,2 +1,2 @@
-# Prima-Workshop-2020
-Prima Workshop Files
+# Prime-Workshop-2020
+Prime Workshop Files
